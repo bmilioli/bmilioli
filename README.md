@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmilioli
 - 📖 I have a degree in Civil Engineering and I'm doing a second degree in Software Engineering
-- 🌱 I’m currently learning Node.js, Java and JavaScript
+- 🌱 I’m currently learning C/C++, Java and Python
 - 📫 How to reach me: brunomiliolif@gmail.com or https://www.linkedin.com/in/bmferreiraa/
 
 
